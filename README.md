@@ -1,4 +1,4 @@
-//Find the Nth number after removing all 9 digit numbers
+    //Find the Nth number after removing all 9 digit numbers
 //Incomplete program
 #include <iostream>
 #include <vector>
