@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) 2017 JonGram Kernel
+Copyright (c) 2017 JonGram Bena
 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
